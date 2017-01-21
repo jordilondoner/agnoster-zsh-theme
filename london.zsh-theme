@@ -8,6 +8,12 @@
 # In order for this theme to render correctly, you will need a
 # [Powerline-patched font](https://gist.github.com/1595572).
 #
+# Jordi added: 21/01/2017
+# If using Ubuntu 16.04 and provably toher apt based dist. install Powerline with
+# `sudo apt-get install powerline`
+# [check it here](https://ubuntu-mate.community/t/installing-powerline-as-quickly-as-possible/5381)
+#
+#
 # In addition, I recommend the
 # [Solarized theme](https://github.com/altercation/solarized/) and, if you're
 # using it on Mac OS X, [iTerm 2](http://www.iterm2.com/) over Terminal.app -
